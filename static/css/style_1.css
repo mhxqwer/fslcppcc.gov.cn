@@ -1,0 +1,182 @@
+
+.zhengxiexinwenli17370_con02_ejyycbhy {
+	width:100%;
+	overflow:hidden;
+}
+.zhengxiexinwenli17370_con02_ejyycbhy div {
+	width:300px;
+	height:85px;
+	margin-bottom:20px;
+}
+.zhengxiexinwenli17370_con03_ejyycbhy {
+	overflow:hidden;
+}
+.zhengxiexinwenli17370_con03_ejyycbhy .pics {
+}
+.zhengxiexinwenli17370_con03_ejyycbhy .pics .pic {
+	width:300px;
+	height:150px;
+	position:relative;
+}
+.zhengxiexinwenli17370_con03_ejyycbhy .pics .pic .btn {
+	position:absolute;
+	left:0;
+	top:0;
+	width:32px;
+	height:32px;
+}
+.zhengxiexinwenli17370_con03_ejyycbhy .pics .pic .btn a {
+	display:inline-block;
+	width:100%;
+	height:100%;
+	background:http://www.cppcc.gov.cn/photoAlbum/templet/common/DEPA1512958208855103/zhengxiexinwen17370_btn.png no-repeat;
+}
+.zhengxiexinwenli17370_con03_ejyycbhy .pics .txt {
+	background:#e8e8e8 none repeat scroll 0 0;
+	color:#033266;
+	font-family:"宋体";
+	font-size:14px;
+	height:36px;
+	line-height:18px;
+	overflow:hidden;
+	padding:5px;
+	width:290px;
+	white-space:none;
+}
+.zhengxiexinwenli17370_con03_ejyycbhy .pics .txt a {
+	color:#033266;
+}
+.zhengxiexinwenli17370_con03_ejyycbhy .pics:hover {
+}
+.zhengxiexinwenli17370_con03_ejyycbhy .pics:hover .pic .btn a {
+	background:http://www.cppcc.gov.cn/photoAlbum/templet/common/DEPA1512958208855103/zhengxiexinwen17370_btnhover.png no-repeat;
+}
+.zhengxiexinwenli17370_con03_ejyycbhy .pics:hover .txt {
+	background:#1e63b0;
+}
+.zhengxiexinwenli17370_con03_ejyycbhy .pics:hover .txt a {
+	color:#fff;
+	text-decoration:none;
+}
+.zhengxiexinwenli17370_con04_ejyycbhy {
+	padding:0 5px;
+	overflow:hidden;
+}
+.zhengxiexinwenli17370_con04_ejyycbhy .text_list {
+}
+.zhengxiexinwenli17370_con04_ejyycbhy .text_list li {
+	height:24px;
+	line-height:24px;
+	font-family:"宋体";
+	font-size:14px;
+	font-weight:normal;
+	color:#033266;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+}
+.zhengxiexinwenli17370_con04_ejyycbhy .text_list li a {
+	color:#033266;
+}
+.zhengxiexinwenli17370_con04_ejyycbhy .text_list li a.li_tit {
+	margin-right:10px;
+}
+.zhengxiexinwenli17370_con04_ejyycbhy .text_list li.cur {
+	background:http://www.cppcc.gov.cn/photoAlbum/templet/common/DEPA1512958208855103/zhengxiexinwen17370_libg.png no-repeat 5px 50%;
+	height:24px;
+	line-height:24px;
+	padding-left:27px;
+	font-size:14px;
+	font-family:"宋体";
+	font-weight:normal;
+	color:#033266;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+}
+.zhengxiexinwenli17370_con04_ejyycbhy .text_list li.cur a {
+	color:#033266;
+}
+.zhengxiexinwenli17370_con04_ejyycbhy .text_list li.cur a:hover {
+	text-decoration:underline;
+}
+.zhengxiexinwenli17370_con05_ejyycbhy {
+}
+.zhengxiexinwenli17370_con05_ejyycbhy .pics {
+}
+.zhengxiexinwenli17370_con05_ejyycbhy .pics .pic_list {
+	overflow:hidden;
+}
+.zhengxiexinwenli17370_con05_ejyycbhy .pics .pic_list li {
+	margin-bottom:17px!important;
+	float:left;
+	margin:0 5px;
+}
+.zhengxiexinwenli17370_con05_ejyycbhy .pics .pic_list li .pic {
+	width:140px;
+	height:80px;
+}
+.zhengxiexinwenli17370_con05_ejyycbhy .pics .pic_list li .text {
+	width:130px;
+	height:36px;
+	line-height:18px;
+	padding:5px;
+	font-size:14px;
+	font-family:"宋体";
+	color:#033266;
+	background:#e8e8e8;
+	overflow:hidden;
+}
+.zhengxiexinwenli17370_con05_ejyycbhy .pics .pic_list li .text a {
+	color:#033266;
+	display:inline-block;
+	width:130px;
+	max-height:36px;
+	overflow:hidden;
+}
+.zhengxiexinwenli17370_con05_ejyycbhy .pics .pic_list li:hover .text {
+	background:#1e63b0;
+}
+.zhengxiexinwenli17370_con05_ejyycbhy .pics .pic_list li:hover .text a {
+	color:#fff;
+	text-decoration:none;
+}
+..zhengxiexinwenli17370_con0307_ejyycbhy {
+	overflow:hidden;
+}
+..zhengxiexinwenli17370_con0307_ejyycbhy .pics {
+}
+..zhengxiexinwenli17370_con0307_ejyycbhy .pics .pic {
+	width:300px;
+	height:150px;
+	position:relative;
+}
+..zhengxiexinwenli17370_con0307_ejyycbhy .pics .txt {
+	background:#e8e8e8 none repeat scroll 0 0;
+	color:#fff;
+	font-family:"宋体";
+	font-size:14px;
+	font-weight:normal;
+	height:42px;
+	line-height:22px;
+	overflow:hidden;
+	padding:0 12px;
+	text-overflow:ellipsis;
+	white-space:pre-line;
+	width:280px;
+}
+..zhengxiexinwenli17370_con0307_ejyycbhy .pics .txt a {
+	color:#033266;
+}
+..zhengxiexinwenli17370_con0307_ejyycbhy .pics:hover {
+}
+..zhengxiexinwenli17370_con0307_ejyycbhy .pics:hover .pic .btn a {
+	background:http://www.cppcc.gov.cn/photoAlbum/templet/common/DEPA1512958208855103/zhengxiexinwen17370_btnhover.png no-repeat;
+}
+..zhengxiexinwenli17370_con0307_ejyycbhy .pics:hover .txt {
+	background:#1e63b0;
+}
+..zhengxiexinwenli17370_con0307_ejyycbhy .pics:hover .txt a {
+	color:#fff;
+	text-decoration:none;
+}

@@ -1,0 +1,53 @@
+@charset "utf-8";
+@import url("common.css");
+
+a{bblr:expression(this.onFocus=this.blur());outline-style:none;}
+
+body{ background:#FFF; margin-top:0;font-family: "微软雅黑";min-width:1200px;}
+.bg_top_h_tile{background-image:url(../images/zhengxie17370_bg.jpg);background-position:50% 0; background-repeat:repeat-y;width: 100%;}
+.bg_top_owner{background-image:none;background-position:50% 0; background-repeat:no-repeat;}
+.lt86 .banner{ background-color:transparent; height:380px;}
+#page_body{width: 1160px;background: #fff;margin: 0 auto;}
+
+.clear{height: 0px;line-height: 0;font-size: 0;overflow: hidden;clear: both;}
+
+.column_wrapper{width: 1100px;margin: 0 auto;}
+
+
+.nav_message{}
+.nav_message .nav_h{ height:41px; width:100%;}
+.nav_message .topnav{ background:url(../images/zhengxie17370_topnav.jpg) repeat; height:40px;width: 100%; border-bottom:1px solid #e1e1e1;top: 0;position: fixed; z-index:999;}
+.nav_message .topnav .colnav{ width:1100px; margin:0 auto;text-align:right;}
+.nav_message .topnav .colnav a{ color:#303030; font-family:"宋体"; font-size:12px; line-height:40px;}
+.nav_message .topnav .colnav span{ margin:0 18px;}
+
+.zhengxie17370_ind08{width: 1160px; height:188px;margin: 0 auto;background: url(../images/zhengxie17370_banner.jpg) no-repeat; position:relative;}
+/*.zhengxie17370_ind08 .title_box{background: url(../images/zhengxie17370_title_bg.png) no-repeat 49px 34px;width: 860px;height: 188px;}*/
+.zhengxie17370_ind08 .con{width:200px;height: 76px; position:absolute; top:51px; right:30px;}
+.zhengxie17370_ind08 .search{width:200px;height: 76px;}
+.zhengxie17370_ind08 .search .sea_top{height: 19px;line-height: 16px;background: #015293;font-family: "Arial";font-size: 12px;color: #fff;}
+.zhengxie17370_ind08 .search .sea_top span{padding: 0 15px;font-family: "宋体";font-size: 12px;line-height: 19px;}
+.zhengxie17370_ind08 .search .sea_con{height: 31px;line-height: 31px;color: #919191;}
+.zhengxie17370_ind08 .search .sea_con a{font-family: "宋体";font-size: 12px;}
+.zhengxie17370_ind08 .search .sea_con a:hover{text-decoration: none;}
+.zhengxie17370_ind08 .search .sea_con a.p_l{padding-right: 19px;padding-left: 1px;}
+.zhengxie17370_ind08 .search .sea_con a.p_r{padding-left: 19px;}
+.zhengxie17370_ind08 .search .sea_con a.p{padding: 0 19px;}
+.zhengxie17370_ind08 .search .sea_bot{width: 200px;height: 26px;position: relative;}
+.zhengxie17370_ind08 .search .sea_bot input{border: 1px solid #015293;width: 163px;height: 24px;padding:0 28px 0 7px;font-family: "宋体";font-size: 12px;line-height: 24px;}
+.zhengxie17370_ind08 .search .sea_bot .sea_pic{background: url(../images/zhengxie17370_icon.png) no-repeat;width: 14px;height: 14px;position: absolute;top: 6px;right: 8px;display: inline-block;}
+
+.zhengxie17370_ind09{width: 1100px;margin: 0 auto;position: relative;z-index: 999;}
+.zhengxie17370_ind09 .nav_bar{height: 50px;background: #015293;padding: 0 10px;}
+.zhengxie17370_ind09 .nav_bar .nav_list{height: 100%;}
+.zhengxie17370_ind09 .nav_bar .nav_list li{float: left;height: 100%;line-height: 50px;}
+.zhengxie17370_ind09 .nav_bar .nav_list li .nav_a{display: inline-block;height: 100%;padding: 0 14px;color: #fff;font-family: "微软雅黑";font-weight: bold;font-size: 23px;}
+.zhengxie17370_ind09 .nav_bar .nav_list li .nav_a:hover{text-decoration: none;}
+.zhengxie17370_ind09 .nav_bar .nav_list li .drop{z-index:999;width: 1100px;/*height: 72px;*/padding-top:20px;padding-bottom:20px;background: #f3f3f3;position: absolute;top: 50px; left:0px;display: none;opacity: 0.9;filter:alpha(opacity=90);}
+.zhengxie17370_ind09 .nav_bar .nav_list li .drop p{/*height: 30px;*/line-height: 30px;font-family: "微软雅黑";font-weight: normal;font-size: 17px;color: #015293;}
+.zhengxie17370_ind09 .nav_bar .nav_list li .drop a{color: #015293;display: inline-block;margin:0 18px;line}
+.zhengxie17370_ind09 .nav_bar .nav_list li .drop .drop_icon{width: 13px;height: 7px;background: url(../images/zhengxie17370_drap.png) no-repeat;position: absolute;top: 0px;}
+
+#page_bottom{width: 100%;height: 101px;background: #fff;padding-top: 26px;}
+#page_bottom .bottom_sub{width: 372px;margin: 0 auto;height: 62px;background: url(../images/zhengxie17370_logo.png) no-repeat 24px 0;padding-left: 108px;}
+#page_bottom .bottom_sub p{font-size: 12px;font-family: "宋体";line-height: 20px;}
